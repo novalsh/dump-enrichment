@@ -1,4 +1,3 @@
-2024-07-01|09:00 am|05:00 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD sesuai dengan apa yang diminta user 
 2024-07-02|09:00 am|05:00 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD sesuai dengan apa yang diminta user (CUSTOM)
 2024-07-03|09:00 am|05:00 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD sesuai dengan apa yang diminta user (CUSTOM)
 2024-07-04|09:00 am|05:00 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD sesuai dengan apa yang diminta user (CUSTOM)
