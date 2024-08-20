@@ -23,9 +23,9 @@
 2024-08-23|09:12 am|05:15 pm|Membuat Custom|Mengerjakan Custom seperti apa yang diminta
 2024-08-24|OFF|OFF|OFF|OFF
 -
-2024-08-26|09:02 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
-2024-08-27|09:02 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
-2024-08-28|09:02 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
-2024-08-29|09:02 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
-2024-08-30|09:02 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-08-26|09:04 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-08-27|09:00 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-08-28|09:04 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-08-29|09:04 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-08-30|09:00 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
 2024-08-31|OFF|OFF|OFF|OFF
