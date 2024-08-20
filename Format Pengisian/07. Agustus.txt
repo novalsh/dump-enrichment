@@ -1,31 +1,31 @@
-2024-08-01|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
-2024-08-02|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
-2024-08-03|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
+2024-08-01|09:15 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-08-02|09:15 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-08-03|OFF|OFF|OFF|OFF
 -
-2024-08-05|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
-2024-08-06|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
-2024-08-07|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
-2024-08-08|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
-2024-08-09|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
-2024-08-10|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
+2024-08-05|09:10 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-08-06|09:10 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-08-07|09:10 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-08-08|09:10 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-08-09|09:10 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-08-10|OFF|OFF|OFF|OFF
 -
-2024-08-12|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
-2024-08-13|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
-2024-08-14|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
-2024-08-15|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
-2024-08-16|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
-2024-08-17|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
+2024-08-12|09:05 am|05:15 pm|Membuat Custom|Mengerjakan Custom seperti apa yang diminta
+2024-08-13|09:05 am|05:15 pm|Membuat Custom|Mengerjakan Custom seperti apa yang diminta
+2024-08-14|09:05 am|05:15 pm|Membuat Custom|Mengerjakan Custom seperti apa yang diminta
+2024-08-15|09:05 am|05:15 pm|Membuat Custom|Mengerjakan Custom seperti apa yang diminta
+2024-08-16|09:05 am|05:15 pm|Membuat Custom|Mengerjakan Custom seperti apa yang diminta
+2024-08-17|OFF|OFF|OFF|OFF
 -
-2024-08-19|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
-2024-08-20|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
-2024-08-21|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
-2024-08-22|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
-2024-08-23|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
-2024-08-24|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
+2024-08-19|09:12 am|05:15 pm|Membuat Custom|Mengerjakan Custom seperti apa yang diminta
+2024-08-20|09:12 am|05:15 pm|Membuat Custom|Mengerjakan Custom seperti apa yang diminta
+2024-08-21|09:12 am|05:15 pm|Membuat Custom|Mengerjakan Custom seperti apa yang diminta
+2024-08-22|09:12 am|05:15 pm|Membuat Custom|Mengerjakan Custom seperti apa yang diminta
+2024-08-23|09:12 am|05:15 pm|Membuat Custom|Mengerjakan Custom seperti apa yang diminta
+2024-08-24|OFF|OFF|OFF|OFF
 -
-2024-08-26|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
-2024-08-27|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
-2024-08-28|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
-2024-08-29|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
-2024-08-30|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
-2024-08-31|CLOCK_IN|CLOCK_OUT|ACTIVIY|DESCRIPTION
+2024-08-26|09:02 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-08-27|09:02 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-08-28|09:02 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-08-29|09:02 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-08-30|09:02 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-08-31|OFF|OFF|OFF|OFF
