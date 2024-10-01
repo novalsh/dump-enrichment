@@ -1,1 +1,30 @@
-
+2024-09-01|OFF|OFF|OFF|OFF
+2024-09-02|09:15 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-09-03|09:15 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-09-04|09:15 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-09-05|09:10 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-09-06|09:10 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-09-07|OFF|OFF|OFF|OFF
+2024-09-08|OFF|OFF|OFF|OFF
+2024-09-09|09:10 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-09-10|09:10 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-09-11|09:10 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-09-12|09:05 am|05:15 pm|Membuat Custom|Mengerjakan Custom seperti apa yang diminta
+2024-09-13|09:05 am|05:15 pm|Membuat Custom|Mengerjakan Custom seperti apa yang diminta
+2024-09-14|OFF|OFF|OFF|OFF
+2024-09-15|OFF|OFF|OFF|OFF
+2024-09-16|09:05 am|05:15 pm|Membuat Custom|Mengerjakan Custom seperti apa yang diminta
+2024-09-17|09:10 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-09-18|09:10 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-09-19|09:12 am|05:15 pm|Membuat Custom|Mengerjakan Custom seperti apa yang diminta
+2024-09-20|09:12 am|05:15 pm|Membuat Custom|Mengerjakan Custom seperti apa yang diminta
+2024-09-21|OFF|OFF|OFF|OFF
+2024-09-22|OFF|OFF|OFF|OFF
+2024-09-23|09:12 am|05:15 pm|Membuat Custom|Mengerjakan Custom seperti apa yang diminta
+2024-09-24|09:10 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-09-25|09:10 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-09-26|09:04 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-09-27|09:00 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
+2024-09-28|OFF|OFF|OFF|OFF
+2024-09-29|OFF|OFF|OFF|OFF
+2024-09-30|09:00 am|05:15 pm|Mengerjakan FDD (Function Desaign Document)|Mengerjakan FDD seperti apa yang diminta
