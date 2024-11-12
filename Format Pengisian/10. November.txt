@@ -1,1 +1,30 @@
-
+2024-11-01|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2024-11-02|OFF|OFF|OFF|OFF
+2024-11-03|OFF|OFF|OFF|OFF
+2024-11-04|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2024-11-05|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2024-11-06|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2024-11-07|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2024-11-08|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2024-11-09|OFF|OFF|OFF|OFF
+2024-11-10|OFF|OFF|OFF|OFF
+2024-11-11|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2024-11-12|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2024-11-13|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2024-11-14|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2024-11-15|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2024-11-16|OFF|OFF|OFF|OFF
+2024-11-17|OFF|OFF|OFF|OFF
+2024-11-18|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2024-11-19|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2024-11-20|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2024-11-21|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2024-11-22|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2024-11-23|OFF|OFF|OFF|OFF
+2024-11-24|OFF|OFF|OFF|OFF
+2024-11-25|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2024-11-26|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2024-11-27|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2024-11-28|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2024-11-29|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2024-11-30|OFF|OFF|OFF|OFF
