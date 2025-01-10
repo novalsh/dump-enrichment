@@ -1,1 +1,28 @@
-
+2025-02-01|OFF|OFF|OFF|OFF
+2025-02-02|OFF|OFF|OFF|OFF
+2025-02-03|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2025-02-04|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2025-02-05|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2025-02-06|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2025-02-07|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2025-02-08|OFF|OFF|OFF|OFF
+2025-02-09|OFF|OFF|OFF|OFF
+2025-02-10|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2025-02-11|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2025-02-12|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2025-02-13|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2025-02-14|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2025-02-15|OFF|OFF|OFF|OFF
+2025-02-16|OFF|OFF|OFF|OFF
+2025-02-17|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2025-02-18|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2025-02-19|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2025-02-20|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2025-02-21|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2025-02-22|OFF|OFF|OFF|OFF
+2025-02-23|OFF|OFF|OFF|OFF
+2025-02-24|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2025-02-25|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2025-02-26|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2025-02-27|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
+2025-02-28|09:00|17:15|Mengerjakan FDD|Mengerjakan FDD yang ada
